@@ -126,7 +126,11 @@ while not fim_jogo:
     movimento_bola = movimentar_bola(bola)
 
     if not movimento_bola:
-        fim_jogo = True
+        fonte = pygame.font.Font(None, 100)
+        texto3 = fonte.render(f"GAME OVER", 1, cores["Brick Breaker"])
+        tela.blit(texto3, (200,400))
+        
+        
     pygame.time.wait(1)
     pygame.display.flip()
 pygame.quit()

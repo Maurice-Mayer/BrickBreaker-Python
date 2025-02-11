@@ -4,4 +4,8 @@ Paulo´s breending tips:
 #TODO: Criar uma função game_over pra ser chamada quando o jogo acabar.
 #TODO: Tentar criar mais funções para organizar o código e não deixar código solto.
 
-# Junto com teste de branch no GH.
+# Junto com teste de branch no GH
+
+# Nova atualização.
+
+

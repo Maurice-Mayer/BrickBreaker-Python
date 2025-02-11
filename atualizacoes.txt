@@ -3,3 +3,5 @@ Paulo´s breending tips:
 #TODO: Criar uma função start_game pra inicializar o jogo, e ser chamada em caso de game over.
 #TODO: Criar uma função game_over pra ser chamada quando o jogo acabar.
 #TODO: Tentar criar mais funções para organizar o código e não deixar código solto.
+
+# Junto com teste de branch no GH.
